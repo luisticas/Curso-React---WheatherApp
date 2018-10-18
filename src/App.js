@@ -7,7 +7,6 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        Weather Location (appp de clima)!
         <WeatherLocation />
       </div>
     );
